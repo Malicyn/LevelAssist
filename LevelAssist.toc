@@ -1,0 +1,6 @@
+## Interface: 110207
+## Title: LevelAssist
+## Author: Malicyn
+## Version: 0.1
+
+Core.lua
